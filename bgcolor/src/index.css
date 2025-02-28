@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+button:hover {
+  border-color: #646cff;
+  cursor: pointer;
+}
+
